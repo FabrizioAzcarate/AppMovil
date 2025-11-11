@@ -8,4 +8,4 @@
 (npx expo install expo-sqlite @react-native-async-storage/async-storage react-native-gesture-handler react-native-reanimated react-native-safe-area-context react-native-screens expo-splash-screen expo-constants)
 ### Paso 4: Iniciar el proyecto con Expo: (npx expo start)/o Expo CLI. (expo start), tambien puede ser "npx expo start -c" o "expo start -c" para limpiar caché.
 ### Paso 5: Escanear el QR con Expo Go.
-### Paso 6: Iniciar sesion ya sea como un usuario ("usuario", "1234") u administrador ("admin, 1234")
+### Paso 6: Iniciar sesion ya sea como un usuario ("usuario", "1234") u administrador ("admin", "1234")
